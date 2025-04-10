@@ -1,0 +1,12 @@
+{
+  "logout": "Abmelden",
+  "appTitle": "Supplier OS Anwendung",
+  "routes": {
+    "/home": "Bug Bounty Challenge"
+  },
+  "home": {
+    "welcome": "Willkommen!",
+    "intro": "Dies ist eine Demo-Anwendung mit einigen Fehlern und Bugs...",
+    "sidenote": "Alle Bugs haben unterschiedliche Komplexitätsgrade..."
+  }
+}
